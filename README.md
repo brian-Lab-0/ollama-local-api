@@ -9,7 +9,7 @@ depending on your answer you can use that case to create responsive text renderi
 
 how to use 
 
-git clone 
+git clone https://github.com/brian-Lab-0/ollama-local-api.git
 
 cd ollama-local-api
 
