@@ -19,7 +19,7 @@ python main.py
 
 ollama3.1
 
-# type your available model eg run in your terminal ollama list  = ollama3.1
+### type your available model eg run in your terminal ollama list  = ollama3.1
 
 then go to your testing software like postman and use 
 http://localhost:8089/what is best programming language
