@@ -38,4 +38,8 @@ then go to your testing software like postman and use
 http://localhost:8089/what is best programming language
 ```
 
-![Screenshot 2024-12-14 214839](https://github.com/user-attachments/assets/3c6e96b1-6842-4003-baa7-f4bc81b0a2c6)
+![Screenshot 2025-02-12 030212](https://github.com/user-attachments/assets/160b4d52-e230-4d85-bf15-3f8abff0d15c)
+
+
+
+
