@@ -11,7 +11,12 @@ how to use
 
 git clone https://github.com/brian-Lab-0/ollama-local-api.git
 
+enter to directory
+
+```
 cd ollama-local-api
+```
+
 
 ```
 pip install langchain_ollama
