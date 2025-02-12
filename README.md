@@ -13,11 +13,13 @@ git clone https://github.com/brian-Lab-0/ollama-local-api.git
 
 cd ollama-local-api
 
-'''
+```
 pip install langchain_ollama
-'''
+```
 
+```
 python main.py
+```
 
 ollama3.1
 
