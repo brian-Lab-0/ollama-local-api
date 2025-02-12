@@ -15,4 +15,13 @@ cd ollama-local-api
 
 pip install langchain_ollama
 
+python main.py
+
+ollama3.1
+
+# type your available model eg run in your terminal ollama list  = ollama3.1
+
+then go to your testing software like postman and use 
+http://localhost:8089/what is best programming language
+
 ![Screenshot 2024-12-14 214839](https://github.com/user-attachments/assets/3c6e96b1-6842-4003-baa7-f4bc81b0a2c6)
