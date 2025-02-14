@@ -1,6 +1,7 @@
 <div style="width:100px;height:100px;">
 ![Logo]([ollama](https://github.com/user-attachments/assets/75e74a2d-fbde-4eed-bb43-463f887e0727))
 </div>
+<img src="https://github.com/user-attachments/assets/75e74a2d-fbde-4eed-bb43-463f887e0727)" alt="Logo" width="100" height="100">
 # Ollama api from local to api
 
 you can use this to push your local ollama interaction to a rpojetc or even public by adding port forwading to your setup then this will be accable externally
