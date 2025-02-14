@@ -1,4 +1,4 @@
-<div style="width:100px; height:100px; display:flex; justify-content:center; align-items:center; background-color:#ffffff;">
+<div style="width:70px; height:70px; display:flex; justify-content:center; align-items:center; background-color:#ffffff;">
   <img src="https://github.com/user-attachments/assets/cce1094b-c453-452d-a767-de6dcfcac3cb" alt="Logo" width="50" height="50">
   <img src="https://github.com/user-attachments/assets/5ac333cb-6f7a-4ed6-9457-4f4d02ba015d" alt="Logo" width="50" height="50">
 </div>
