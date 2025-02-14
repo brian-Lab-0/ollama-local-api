@@ -1,7 +1,7 @@
 
 <div style="width:50px;height:50px; justfy:center;">
 <img src="https://github.com/user-attachments/assets/cce1094b-c453-452d-a767-de6dcfcac3cb" alt="Logo" width="50" height="50" >
-<img src="https://github.com/user-attachments/assets/5ac333cb-6f7a-4ed6-9457-4f4d02ba015d" alt="Logo" width="70" height="70" >
+<img src="https://github.com/user-attachments/assets/5ac333cb-6f7a-4ed6-9457-4f4d02ba015d" alt="Logo">
 </div>
 
 
