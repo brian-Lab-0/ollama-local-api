@@ -28,9 +28,12 @@ pip install langchain_ollama
 python main.py
 ```
 
-ollama3.1
 
-### type your available model eg run in your terminal ollama list  = ollama3.1
+
+### type your available model eg run in your terminal ollama list  
+example if you have ollama3.1
+
+then type full model name and click enter
 
 then go to your testing software like postman and use 
 
