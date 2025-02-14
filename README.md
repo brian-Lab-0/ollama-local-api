@@ -4,7 +4,7 @@
 
 # Access Ollama as an api
 
-you can use this to push your local ollama interaction to a rpojetc or even public by adding port forwading to your setup then this will be accable externally
+you can use this to push your local ollama interaction to an api private Api or even public  Api by adding port forwading to your setup then this will be accable externally
 
 in the given script here example response usage in the screenshot below you can try to call by paasing your question and the result will return from the ollama response line by line small or bigger paragraphs
 depending on your answer you can use that case to create responsive text rendering in a much more conversational like in your project
@@ -22,7 +22,6 @@ enter to directory
 ```
 cd ollama-local-api
 ```
-
 
 ```
 pip install langchain_ollama
