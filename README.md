@@ -2,7 +2,6 @@
 <div style="width:100px;height:100px; background:ffffff;">
 <img src="https://github.com/user-attachments/assets/cce1094b-c453-452d-a767-de6dcfcac3cb" alt="Logo" width="50" height="50" >
 </div>
-![ollama (1)](https://github.com/user-attachments/assets/cce1094b-c453-452d-a767-de6dcfcac3cb)
 
 # Ollama api from local to api
 
