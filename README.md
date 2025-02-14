@@ -1,3 +1,6 @@
+| Tests | Coverage |
+| :✅:  | :🐍: | 
+| [![Sources]()](link) | [![Tests](badge)](link) | [![Coverage](badge)](link) |
 
 # Ollama api from local to api
 
