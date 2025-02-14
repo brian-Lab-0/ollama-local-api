@@ -2,13 +2,14 @@
 <div style="width:100px;height:100px; background:ffffff;">
 <img src="https://github.com/user-attachments/assets/75e74a2d-fbde-4eed-bb43-463f887e0727" alt="Logo" width="50" height="50" >
 </div>
-<table>
+<table width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="background-color:#ffffff; padding:10px;">
+    <td style="background-color:#ffffff; text-align:center; padding:20px;">
       <img src="https://github.com/user-attachments/assets/75e74a2d-fbde-4eed-bb43-463f887e0727" alt="Logo" width="50" height="50">
     </td>
   </tr>
 </table>
+
 
 # Ollama api from local to api
 
