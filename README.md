@@ -1,6 +1,4 @@
-| Tests | Coverage |
-| :✅:  | :🐍: | 
-| [![Sources]()](link) | [![Tests](badge)](link) | [![Coverage](badge)](link) |
+
 
 # Ollama api from local to api
 
@@ -15,6 +13,7 @@ how to use
 ```
 git clone https://github.com/brian-Lab-0/ollama-local-api.git
 ```
+![ollama](https://github.com/user-attachments/assets/75e74a2d-fbde-4eed-bb43-463f887e0727)
 
 enter to directory
 
